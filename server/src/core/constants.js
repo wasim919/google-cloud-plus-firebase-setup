@@ -1,0 +1,2 @@
+const FIREBASE_CUSTOM_TOKEN_NAMESPACE = 'customToken';
+module.exports = { FIREBASE_CUSTOM_TOKEN_NAMESPACE };
