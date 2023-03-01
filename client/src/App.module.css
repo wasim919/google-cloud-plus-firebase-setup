@@ -1,0 +1,17 @@
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.loginUI {
+	margin-top: 20vh;
+	width: 50vw;
+	display: flex;
+	flex-direction: column;
+	gap: 40px;
+}
+
+.loginUI button {
+	width: fit-content;
+}
