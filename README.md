@@ -15,6 +15,8 @@ FIREBASE_DB_URL=
 GOOGLE_REDIRECT_URI=
 ```
 
+`Add google-credentials.json file inside /server/src/config`
+
 #### b. Client
 
 ```
