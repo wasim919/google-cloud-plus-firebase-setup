@@ -4,6 +4,7 @@ const helmet = require('helmet');
 const cors = require('cors');
 
 require('dotenv').config();
+require('./core/firebase.helper');
 
 const middlewares = require('./middlewares');
 const api = require('./api');
